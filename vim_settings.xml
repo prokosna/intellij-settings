@@ -1,0 +1,337 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dev/scala/fpinscala/answers/src/main/scala/fpinscala/state/State.scala" timestamp="1475901673546">
+        <mark key="[" line="233" column="11" />
+        <mark key="]" line="233" column="4" />
+        <mark key="^" line="233" column="4" />
+        <mark key="." line="233" column="4" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/app/actors/UserSocket.scala" timestamp="1466928838217">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="2" />
+        <mark key="." line="19" column="2" />
+        <mark key="^" line="19" column="2" />
+      </file>
+      <file name="/a.dummy" timestamp="1466259598746">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/ref/ddd-leaven-akka-v2/headquarters/build.sbt" timestamp="1476587950188">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/akka-sample-cluster-scala/src/main/resources/stats2.conf" timestamp="1466839090939">
+        <mark key="[" line="8" column="38" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/tslint.json" timestamp="1466238547733">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/app/views/chat.scala.html" timestamp="1466259696653">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/akka-sample-cluster-scala/src/main/resources/application.conf" timestamp="1466603141916">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/app/actors/ChatMessage.scala" timestamp="1466113680993">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="23" column="50" />
+        <mark key="^" line="23" column="50" />
+        <mark key="." line="23" column="50" />
+      </file>
+      <file name="$USER_HOME$/Work/atlas-enrichment/Procfile" timestamp="1476597203195">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/app/actors/ChatRoom.scala" timestamp="1466262726549">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/akka-sample-cluster-scala/src/main/scala/sample/cluster/stats/StatsWorker.scala" timestamp="1466837925646">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="54" />
+        <mark key="^" line="17" column="54" />
+        <mark key="." line="17" column="54" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/typings.json" timestamp="1466256366476">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/app/controllers/HomeController.scala" timestamp="1466928812776">
+        <mark key="[" line="26" column="83" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/app/messages/SocketMessage.scala" timestamp="1466948800060">
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+        <mark key="^" line="7" column="60" />
+      </file>
+      <file name="$USER_HOME$/Work/atlas-enrichment/README.md" timestamp="1476599468293">
+        <mark key="[" line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/app/views/elements/formErrors.scala.html" timestamp="1466259248259">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/scripts/src/js/hoge/entry.tsx" timestamp="1466244180782">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/Dev/aws/amazon-elasticsearch-lambda-samples/package.json" timestamp="1476627500571">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+      </file>
+      <file name="$USER_HOME$/Work/atlas-enrichment/server/utils/on-error-return-undefined.js" timestamp="1476630529950">
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/package.json" timestamp="1466246165681">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/app/controllers/ChatController.scala" timestamp="1466872229375">
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="56" column="22" />
+        <mark key="." line="56" column="22" />
+        <mark key="^" line="56" column="22" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/akka-sample-cluster-scala/src/main/scala/sample/cluster/factorial/FactorialFrontend.scala" timestamp="1466846531290">
+        <mark key="[" line="28" column="39" />
+      </file>
+      <file name="$USER_HOME$/Dev/scala/fp-scala/src/main/scala/chapter04/Either.scala" timestamp="1475383294286">
+        <mark key="[" line="96" column="3" />
+        <mark key="]" line="95" column="24" />
+        <mark key="^" line="95" column="24" />
+        <mark key="." line="95" column="24" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/.gitignore" timestamp="1466256020114">
+        <mark key="[" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/scripts/src/js/home/components/HelloComponent.ts" timestamp="1466244074392">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/tsconfig.json" timestamp="1466258714275">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1466266068432">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-scala-sample/app/actions/Logging.scala" timestamp="1465830520459">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/gulpfile.js" timestamp="1466258511170">
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="41" column="19" />
+        <mark key="^" line="41" column="19" />
+        <mark key="." line="41" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/akka-sample-cluster-scala/src/main/scala/sample/cluster/stats/StatsService.scala" timestamp="1466838192005">
+        <mark key="[" line="39" column="45" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/app/views/index.scala.html" timestamp="1466259454864">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="30" column="13" />
+        <mark key="." line="30" column="13" />
+        <mark key="^" line="30" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-scala-sample/app/ErrorHandler.scala" timestamp="1465833011235">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="17" column="80" />
+      </file>
+      <file name="$USER_HOME$/Work/atlas-enrichment/ft.yml" timestamp="1476597179436">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/scala/fp-scala/src/main/scala/chapter05/Stream.scala" timestamp="1475675323558">
+        <mark key="[" line="135" column="16" />
+        <mark key="]" line="135" column="22" />
+        <mark key="^" line="135" column="22" />
+        <mark key="." line="135" column="22" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/app/views/elements/flashMessages.scala.html" timestamp="1466246572171">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/akka-sample-cluster-scala/src/main/scala/sample/cluster/stats/StatsSample.scala" timestamp="1466838974543">
+        <mark key="[" line="36" column="60" />
+        <mark key="]" line="37" column="60" />
+        <mark key="^" line="36" column="62" />
+        <mark key="." line="37" column="60" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/akka-sample-cluster-scala/src/main/resources/stats1.conf" timestamp="1466839000064">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="61" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/build.sbt" timestamp="1466918341176">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/idea/play-chat/scripts/src/entry.tsx" timestamp="1466241128891">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="24" column="2" filename="$USER_HOME$/Dev/idea/play-scala-sample/app/controllers/HomeController.scala" />
+      <jump line="28" column="2" filename="$USER_HOME$/Dev/idea/play-scala-sample/app/controllers/HomeController.scala" />
+      <jump line="143" column="19" filename="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/srcs/akka-cluster_2.11-2.4.7-sources.jar!/akka/cluster/ClusterEvent.scala" />
+      <jump line="7" column="265" filename="$USER_HOME$/Dev/idea/play-chat/conf/routes" />
+      <jump line="143" column="0" filename="$USER_HOME$/Dev/idea/play-chat/tslint.json" />
+      <jump line="144" column="0" filename="$USER_HOME$/Dev/idea/play-chat/tslint.json" />
+      <jump line="8" column="4" filename="$USER_HOME$/Dev/idea/play-chat/scripts/src/entry.tsx.ts" />
+      <jump line="8" column="1" filename="$USER_HOME$/Dev/idea/play-chat/scripts/src/js/home/entry.tsx" />
+      <jump line="9" column="6" filename="$USER_HOME$/Dev/idea/play-chat/app/views/elements/formErrors.scala.html" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dev/idea/play-chat/app/views/chat.scala.html" />
+      <jump line="23" column="0" filename="$USER_HOME$/Dev/idea/play-scala-sample/conf/routes" />
+      <jump line="26" column="6" filename="$USER_HOME$/Dev/idea/play-chat/app/controllers/HomeController.scala" />
+      <jump line="11" column="2" filename="$USER_HOME$/Dev/scala/fp-scala/src/main/scala/chapter04/Option.scala" />
+      <jump line="53" column="17" filename="$USER_HOME$/Dev/scala/fp-scala/src/main/scala/chapter04/Option.scala" />
+      <jump line="138" column="1" filename="$USER_HOME$/Dev/scala/fp-scala/src/main/scala/chapter06/State.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/scala/fp-scala/src/main/scala/chapter06/State.scala" />
+      <jump line="39" column="12" filename="$USER_HOME$/Work/atlas-enrichment/server/worker.js" />
+      <jump line="63" column="18" filename="$USER_HOME$/Work/atlas-enrichment/server/models/event.js" />
+      <jump line="142" column="0" filename="$USER_HOME$/Work/atlas-enrichment/server/models/event.js" />
+      <jump line="159" column="4" filename="$USER_HOME$/Work/atlas-enrichment/server/models/event.js" />
+      <jump line="70" column="4" filename="$USER_HOME$/Work/atlas-enrichment/server/models/event.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIFByb21pc2UucmVzb2x2ZShpc1ZhbGlkKSwK</text>
+      </register>
+      <register name="-" type="4">
+        <text>let</text>
+      </register>
+      <register name="/" type="4">
+        <text>_raw</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">aW5pdGlhbGl6ZVNxc1RvSnNvbigpIHsKICAgIG1ldHJpY3MuY291bnQoJ21vZGVscy5ldmVudC5jb3VudCcsIDEpOwoKICAgIHRyeSB7CiAgICAgIC8vIEFXUyBTTlMgZW52ZWxvcCBtZXNzYWdlIGJ5ICdNZXNzYWdlJyBLZXkKICAgICAgY29uc3QgdW5wYWNrZWQgPSB0aGlzLmluZ2VzdC5yYXcuTWVzc2FnZTsKICAgICAgLy8gYXRsYXMtZW5kcG9pbnQgc3RvcmVzIGJvZHkgdG8gJ21lc3NhZ2UnIHJvb3Qga2V5CiAgICAgIHRoaXMuaW5nZXN0LmFzSnNvbiA9IEpTT04ucGFyc2UodW5wYWNrZWQpLm1lc3NhZ2U7CiAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgY29uc29sZS5sb2coYGV2ZW50IGJvZHkgd2FzIG5vdCBwYXJzZWQ6ICR7ZXJyfWApOwogICAgICBtZXRyaWNzLmNvdW50KCdtb2RlbHMuZXZlbnQuanNvbl9wYXJzZV9lcnJvcicsIDEpOwogICAgfQoKICAgIHRyeSB7CiAgICAgIC8vIEluIGF0bGFzLWVuZHBvaW50LCB3ZSBoYXZlIGJvZHkgcmVxdWVzdCBieSBib2R5UGFyc2VyLnJhdygpLiBTbyBhc0pzb24ubWVzc2FnZSBoYXMgZGF0YSB3aGljaCBpcyBCdWZmZXIgdHlwZS4KICAgICAgY29uc3QgbSA9ICghIU9iamVjdC5rZXlzKHRoaXMuaW5nZXN0LmFzSnNvbi5tZXNzYWdlLmRhdGEpLmxlbmd0aCkgPyB0aGlzLmluZ2VzdC5hc0pzb24ubWVzc2FnZS5kYXRhIDogW107CiAgICAgIGNvbnN0IG1lc3NhZ2UgPSBuZXcgQnVmZmVyKG0pOwoKICAgICAgLy8gQXZvaWQgJ3VuZXhwZWN0ZWQgaW5wdXQnIGVycm9yIHdoZW4gdHJ5aW5nIHRvIGNvbnZlcnQgYW4gZW1wdHkgYnVmZmVyIHRvIGEgc3RyaW5nCiAgICAgIGlmIChtZXNzYWdlLmxlbmd0aCA+IDApIHsKICAgICAgICAvLyBSZXBsYWNlIGJyZWFraW5nIHdoaXRlc3BhY2UKICAgICAgICBsZXQgbWVzc2FnZVN0ciA9IHNhZmVTdHJpbmdpZnkobWVzc2FnZSk7CgogICAgICAgIC8vIERlY29kZSBlbmNvZGVkIChhbmQgdHdpY2UtZW5jb2RlZCkgSlNPTgogICAgICAgIC8vIFRPRE86IFdoeSBkbyB3ZSBoYXZlIHRoZSB1cmwgZW5jb2RlZCB0d2ljZT8KICAgICAgICBpZiAobWVzc2FnZVN0ci50b0xvd2VyQ2FzZSgpLmluZGV4T2YoJyUnKSA9PT0gMCkgewogICAgICAgICAgbWVzc2FnZVN0ciA9IGRlY29kZVVSSUNvbXBvbmVudChkZWNvZGVVUklDb21wb25lbnQobWVzc2FnZVN0cikpOwogICAgICAgICAgbWV0cmljcy5jb3VudCgnbW9kZWxzLmV2ZW50LnVyaV9lbmNvZGVkX21lc3NhZ2UnLCAxKTsKICAgICAgICB9CgogICAgICAgIHRoaXMuaW5nZXN0LmJvZHkgPSBKU09OLnBhcnNlKEpTT04ucGFyc2UobWVzc2FnZVN0cikuYm9keSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhpcy5pbmdlc3QuYm9keSA9IHt9OwogICAgICAgIG1ldHJpY3MuY291bnQoJ21vZGVscy5ldmVudC5lbXB0eV9tZXNzYWdlJywgMSk7CiAgICAgIH0KCiAgICAgIHRoaXMuaW5nZXN0LmJvZHlGbGF0dGVuZWQgPSBmbGF0dGVuKHRoaXMuaW5nZXN0LmJvZHkpOwogICAgICB0aGlzLmluZ2VzdC5oZWFkZXJzID0gdGhpcy5pbmdlc3QuYXNKc29uLmhlYWRlcnMgfHwge307CgogICAgICB0cmFjZShgJHt0aGlzLmluZ2VzdC5oZWFkZXJzWyAneC1yZXF1ZXN0LWlkJyBdfSBFdmVudCByZWNlaXZlZCBieSBTcG9vciBlbnJpY2htZW50ICgke3RoaXMuaW5nZXN0LmhlYWRlcnNbICdmYXN0bHktY2xpZW50LWlwJyBdfSlgKTsKCiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBsb2dnZXIuZXJyb3IoJ1BhcnNpbmcgb2YgdGhlIGV2ZW50IGZhaWxlZCcsIGVycm9yKTsKICAgICAgcmVwb3J0RXJyb3IuY2FwdHVyZSgnRXJyb3IgUGFyc2luZyBFdmVudCcsIGAke2Vycm9yfSBpbiAke0pTT04uc3RyaW5naWZ5KHRoaXMuaW5nZXN0Ll9yYXcpfWApOwogICAgICBtZXRyaWNzLmNvdW50KCdtb2RlbHMuZXZlbnQuZ2VuZXJhbF9wYXJzZV9lcnJvcicsIDEpOwogICAgfQogIH0=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIFByb21pc2UucmVzb2x2ZShpc1ZhbGlkKSwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBdKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZpbHRlci5tZXRyaWNzKGZldmVudCksCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIFByb21pc2UucmVzb2x2ZShmZXZlbnQpLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5hbGwoWwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBbZmV2ZW50XSA9IGZpbHRlcmVkRXZlbnQ7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/_raw/raw/g</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>_raw</last-search>
+      <last-pattern>_raw</last-pattern>
+      <last-replace>raw</last-replace>
+      <last-substitute>_raw</last-substitute>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>_body</entry>
+        <entry>_headers</entry>
+        <entry>_bodyFlattened</entry>
+        <entry>_asJson</entry>
+        <entry>_raw</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set clipboard</entry>
+        <entry>%s/_body/body/g</entry>
+        <entry>%s/_headers/headers/g</entry>
+        <entry>%s/_bodyFlattened/bodyFlattened/g</entry>
+        <entry>%s/_asJson/asJson/g</entry>
+        <entry>%s/_raw/raw/g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
